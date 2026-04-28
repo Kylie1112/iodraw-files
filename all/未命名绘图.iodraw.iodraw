@@ -42,6 +42,12 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-2" target="0f73xoM3LccsVoZNjF0Q-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-2" target="0f73xoM3LccsVoZNjF0Q-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-2" target="0f73xoM3LccsVoZNjF0Q-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-2" value="系统管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="210" width="120" height="40" as="geometry" />
         </mxCell>
