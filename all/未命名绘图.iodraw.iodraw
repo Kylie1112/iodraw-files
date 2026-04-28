@@ -75,7 +75,7 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-31" target="0f73xoM3LccsVoZNjF0Q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0f73xoM3LccsVoZNjF0Q-31" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-31" value="宿舍楼管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-32" target="0f73xoM3LccsVoZNjF0Q-2">
@@ -86,6 +86,15 @@
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-36" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-37" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-38" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-39" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="20" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
