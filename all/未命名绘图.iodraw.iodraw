@@ -54,6 +54,10 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="290" />
+              <mxPoint x="151" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-2" value="系统管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -76,6 +80,9 @@
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-31" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-32" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="20" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
