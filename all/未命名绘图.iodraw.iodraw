@@ -42,7 +42,8 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-2" target="0f73xoM3LccsVoZNjF0Q-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="240" />
+              <mxPoint x="120" y="300" />
+              <mxPoint x="30" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-2" value="系统管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-7" value="维修人员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
@@ -103,8 +104,8 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-38" target="0f73xoM3LccsVoZNjF0Q-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="290" />
-              <mxPoint x="120" y="290" />
+              <mxPoint x="210" y="300" />
+              <mxPoint x="120" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,8 +115,8 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-39" target="0f73xoM3LccsVoZNjF0Q-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="290" />
-              <mxPoint x="120" y="290" />
+              <mxPoint x="240" y="300" />
+              <mxPoint x="120" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
