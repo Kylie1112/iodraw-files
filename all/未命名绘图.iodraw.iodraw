@@ -14,7 +14,7 @@
           <mxGeometry x="310" y="50" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-2" value="系统管理员端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-4" value="学生端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="342" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="342" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
