@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="170" />
-              <mxPoint x="340" y="170" />
+              <mxPoint x="320" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,6 +39,9 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-1" value="智慧宿舍管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="60" width="184" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-2" target="0f73xoM3LccsVoZNjF0Q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-2" value="系统管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,6 +53,9 @@
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-12" value="宿舍管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
