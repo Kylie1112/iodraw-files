@@ -84,7 +84,7 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-7" value="维修人员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0f73xoM3LccsVoZNjF0Q-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-9" target="0f73xoM3LccsVoZNjF0Q-70">
+        <mxCell id="0f73xoM3LccsVoZNjF0Q-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-9" target="0f73xoM3LccsVoZNjF0Q-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-9" value="学生" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
