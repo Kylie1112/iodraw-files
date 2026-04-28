@@ -7,7 +7,8 @@
         <mxCell id="0f73xoM3LccsVoZNjF0Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f73xoM3LccsVoZNjF0Q-1" target="0f73xoM3LccsVoZNjF0Q-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="402" y="280" />
+              <mxPoint x="402" y="190" />
+              <mxPoint x="160" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -18,10 +19,10 @@
           <mxGeometry x="310" y="40" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-2" value="系统管理员端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0f73xoM3LccsVoZNjF0Q-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="342" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="342" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
